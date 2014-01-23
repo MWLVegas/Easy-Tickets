@@ -1,0 +1,11 @@
+name: EasyTickets
+main: com.ivalicemud.et.EasyTickets
+version: 1.5.4
+description: An easy to use, but advanced Ticket help system
+author: raum266
+ 
+commands:
+   ticket:
+      aliases: [et, helptickets, tickets, helpticket, easyticket, easytickets]
+      description: The main command for Easy Tickets.
+      usage: /ticket (options)
